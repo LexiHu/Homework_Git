@@ -1,0 +1,18 @@
+git init
+git status
+git add hello-world.js
+git commit -m "This is a commit message"
+cd /home/scrapbook/tutorial/.git/
+touch .gitignore
+vim .gitignore
+
+
+git status
+git diff committed.js
+git add .
+git diff --staged
+git log
+git show
+
+
+
