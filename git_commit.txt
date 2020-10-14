@@ -15,8 +15,4 @@ git log
 git show
 
 git add .
-git commit -m "Commit message"
-git remote add origin https://github.com/LexiHu/Homework_Git.git
-git pull origin master
-git push -u origin master -f
-git log
+
